@@ -1,0 +1,4 @@
+Business Problem:
+A business development executive from a Taiwanese restaurant booking management system company would like enter new oversea market. The BDE would like to know where to start in the city of Boston. 
+Since the company sells the system to restaurants, the BDE would need to find out which neiborhoods have more restaurants.  Also, the company is based in Asia and its key accounts are mostly Asian restaurant brands. With no established reputation in the new market, it would easier if the BDE starts from Asian restaurants. 
+The project goals are therefore: 1. find out neighborhood clusters with more restaurants 2. find out neighborhood with more Asian restaurants.
